@@ -50,7 +50,9 @@
             </ul>
         </div>
         <div class="nav-button">
-            <button class="btn">Download CV <i class="uil uil-file-alt"></i></button>
+                    <button class="btn" onclick="window.open('https://drive.google.com/file/d/1IzARJqnjrGuedMi6WTICbS2i0S_wD6Ms/view?usp=sharing', '_blank')">
+             Download CV <i class="uil uil-file-alt"></i>
+        </button>
         </div>
         <div class="nav-menu-btn">
             <i class="uil uil-bars" onclick="myMenuFunction()"></i>
@@ -270,15 +272,19 @@
       <p><i class="uil uil-envelope"></i> Email: <a href="mailto:faizansheikh2651@gmail.com">faizansheikh2651@gmail.com</a></p>
       <p><i class="uil uil-phone"></i> Phone: <a href="tel:+919511287227">+91 9511287227</a></p>
       <p><i class="uil uil-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/in/faizan-sheikh-535752208" target="_blank">Connect</a></p>
-      <p><i class="uil uil-github"></i> GitHub: <a href="https://github.com/Faizan2651/Inventory1.git" target="_blank">View Projects</a></p>
+      <p><i class="uil uil-github"></i> GitHub: <a href="https://github.com/Faizan2651" target="_blank">View Projects</a></p>
     </div>
 
-    <form class="contact-form">
-      <input type="text" placeholder="Your Name" required>
-      <input type="email" placeholder="Your Email" required>
-      <textarea placeholder="Your Message" required></textarea>
-      <button type="submit" class="btn">Send Message</button>
-    </form>
+<form class="contact-form" id="contact-form">
+  <input type="text" name="user_name" placeholder="Your Name" required>
+  <input type="email" name="user_email" placeholder="Your Email" required>
+  <textarea name="message" placeholder="Your Message" required></textarea>
+  <button type="submit" class="btn">Send Message</button>
+</form>
+<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+<script src="script.js"></script> <!-- your JS file -->
+
+
   </div>
 </section>
 
@@ -304,7 +310,7 @@
     <div class="icon"><a href="https://www.instagram.com/im_faizansheikh" target="_blank"><i class="uil uil-instagram"></i></a></div>
     <div class="icon"><a href="https://www.linkedin.com/in/faizan-sheikh-535752208" target="_blank"><i class="uil uil-linkedin-alt"></i></a></div>
     <div class="icon"><a href="mailto:faizansheikh2651@gmail.com"><i class="uil uil-envelope"></i></a></div>
-    <div class="icon"><a href="https://github.com/Faizan2651/Inventory1.git" target="_blank"><i class="uil uil-github-alt"></i></a></div>
+    <div class="icon"><a href="https://github.com/Faizan2651" target="_blank"><i class="uil uil-github-alt"></i></a></div>
   </div>
 
   <div class="bottom-footer">
