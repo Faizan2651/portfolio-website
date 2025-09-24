@@ -67,3 +67,9 @@ If you’re interested in collaborating, sharing ideas, or even just connecting,
 # ✨ Final Note
 
 Every day is a new opportunity to learn, grow, and create. As a beginner-turned-developer, I am proud of how far I’ve come and even more excited about the journey ahead. With consistent practice, curiosity, and determination, I aim to keep evolving as a developer who can make meaningful contributions to the tech world.
+
+## OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/900b51f6-f4f9-405b-8435-b498c3e245c7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5a569d8a-964a-41fe-9731-f206910d3ee3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/838d253d-44cc-46a4-b903-6fc75cef535f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ae259c1c-a815-452b-a707-c9890725d405" />
